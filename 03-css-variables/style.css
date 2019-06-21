@@ -8,6 +8,8 @@ img {
   padding: var(--spacing);
   background-color: var(--base);
   filter: blur(var(--blur));
+  width: 700px;
+  height: 420px;
 }
 
 .highlight {
@@ -19,7 +21,7 @@ html {
 }
 
 body {
-  font-family: "IBM Plex Mono", monospace;
+  font-family: 'IBM Plex Mono', monospace;
   text-align: center;
   background-color: #21394b;
   color: white;
