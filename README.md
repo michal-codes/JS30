@@ -7,6 +7,8 @@ frameworks only ES6 syntax vanilla JavaScript. -->
 
 view demos [here](https://michal-codes.github.io/JS30/)
 
+![JS30](resources/img/JS30.png 'page view')
+
 1. [JS Drum Kit](https://michal-codes.github.io/JS30/01-alphabet)
 2. [JS + CSS Clock](https://michal-codes.github.io/JS30/02-clock)
 3. [CSS Variables and JS](https://michal-codes.github.io/JS30/03-css-variables)
