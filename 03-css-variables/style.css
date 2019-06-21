@@ -1,0 +1,35 @@
+:root {
+  --base: #94ff00;
+  --spacing: 10px;
+  --blur: 10px;
+}
+
+img {
+  padding: var(--spacing);
+  background-color: var(--base);
+  filter: blur(var(--blur));
+}
+
+.highlight {
+  color: var(--base);
+}
+
+html {
+  font-size: 10px;
+}
+
+body {
+  font-family: "IBM Plex Mono", monospace;
+  text-align: center;
+  background-color: #21394b;
+  color: white;
+  font-size: 2rem;
+}
+
+.controls {
+  margin-bottom: 50px;
+}
+
+input {
+  width: 100px;
+}

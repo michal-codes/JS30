@@ -1,0 +1,1 @@
+### zmiana jest taka dodałem event mouseout i wtedy class remove
